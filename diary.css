@@ -1,0 +1,25 @@
+.each {
+    border: 1px solid black;
+    flex-direction: column;
+    display: flex;
+    gap: 20px;
+    padding: 10px;
+}
+.title {
+    font-weight: 700;
+    font-size: 25px;
+}
+
+.content {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+}
+
+.container {
+    margin: 20px;
+}
+
+.img {
+    height: 200px;
+}
