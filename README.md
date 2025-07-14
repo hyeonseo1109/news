@@ -1,6 +1,6 @@
 # 단독 뉴스 뷰어 (News Viewer)
 
-[NewsAPI](https://newsapi.org/)를 이용해 뉴스 기사를 검색하여 보여줍니다.
+<a href="https://newsapi.org/" target="_blank">NewsAPI</a> 를 이용해 뉴스 기사를 검색하여 보여줍니다.
 
 ## 🧾 기능
 
